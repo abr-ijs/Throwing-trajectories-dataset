@@ -30,7 +30,7 @@ robot_throws
     * .w is basis functions weight matrix <img src="https://render.githubusercontent.com/render/math?math=\large \textbf{ \omega }">,
     * .tau is time constant <img src="https://render.githubusercontent.com/render/math?math=\large\tau">,  
     * .goal is <img src="https://render.githubusercontent.com/render/math?math=\large\textbf{g}">,
-    * .y0 is starting point<img src="https://render.githubusercontent.com/render/math?math=\large\textbf{y_0}">
+    * .y0 is starting point<img src="https://render.githubusercontent.com/render/math?math=\textbf{y_0}">
 
 ### Matlab support code for dataset  
 
