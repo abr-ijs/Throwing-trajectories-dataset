@@ -16,18 +16,18 @@ robot_throws
 * .targets[9824,3] (targets of trajectorie generation) 
     * targets[:,1] are x positions, 
     * targets[:,2] are y positions, 
-    * targets[:,3] are hit angle $\alpha_2$
+    * targets[:,3] are hit angle <img src="https://render.githubusercontent.com/render/math?math=\alpha">
 * .DMP{1,9824} structures with DMP data for each exampel
-    * .N
-    * .dt
+    * .N number of basis functions
+    * .dt <img src="https://render.githubusercontent.com/render/math?math=dt">
     * .a_z <img src="https://render.githubusercontent.com/render/math?math=\alpha_z">
     * .a_x <img src="https://render.githubusercontent.com/render/math?math=\alpha_x">
     * .c
     * .sigma_2 <img src="https://render.githubusercontent.com/render/math?math=\sigma^2">
-    * .w 
-    * .tau,     time constant
-    * .goal 
-    * .y0
+    * .w weights <img src="https://render.githubusercontent.com/render/math?math=w">
+    * .tau, time constant <img src="https://render.githubusercontent.com/render/math?math=\tau">  
+    * .goal <img src="https://render.githubusercontent.com/render/math?math=g">
+    * .y0 <img src="https://render.githubusercontent.com/render/math?math=y_0">
 
 
 <img src="https://render.githubusercontent.com/render/math?math=e^{i\pi}=-1">
