@@ -30,4 +30,4 @@ robot_throws
     * .y0 <img src="https://render.githubusercontent.com/render/math?math=y_0">
 
 
-![formula]<img src="https://render.githubusercontent.com/render/math?math=e^{i\pi}=-1">
+![formula](img src="https://render.githubusercontent.com/render/math?math=e^{i\pi}=-1")
