@@ -26,11 +26,11 @@ robot_throws
     * .a_z is constant <img src="https://render.githubusercontent.com/render/math?math=\alpha_z">,
     * .a_x is constant <img src="https://render.githubusercontent.com/render/math?math=\alpha_x">,
     * .c are center positionsof basis functions,
-    * .sigma_2 are basis functions squared variances <img src="https://render.githubusercontent.com/render/math?math=\delta^2">,
-    * .w is basis functions weight matrix <img src="https://render.githubusercontent.com/render/math?math=\textbf{ \omega }">,
-    * .tau is time constant <img src="https://render.githubusercontent.com/render/math?math=\tau">,  
+    * .sigma_2 are squared variances of basis functions <img src="https://render.githubusercontent.com/render/math?math=\delta^2">,
+    * .w is weight matrix <img src="https://render.githubusercontent.com/render/math?math=\textbf{ \omega }">,
+    * .tau is time constant <img src="https://render.githubusercontent.com/render/math?math=\large \tau">,  
     * .goal is <img src="https://render.githubusercontent.com/render/math?math=\textbf{g}">,
-    * .y0 is starting point<img src="https://render.githubusercontent.com/render/math?math=\textbf{y_0}">
+    * .y0 is starting point <img src="https://render.githubusercontent.com/render/math?math=\textbf{y_0}">
 
 ### Matlab support code for dataset  
 
