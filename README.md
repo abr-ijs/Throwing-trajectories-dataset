@@ -10,8 +10,8 @@ robot_throws
     * .dt  (time step of generated trajectories)
 * .qPath{1,9824}[:,10] (array of 9824 generated trajectories, each in [:,10] matrix)
     * [:,1] are time values <img src="https://render.githubusercontent.com/render/math?math=\Large t">,
-    * [:,2:4] are joint positions, 
-    * [:,5:7] are joint velocities, 
+    * [:,2:4] are joint positions <img src="https://render.githubusercontent.com/render/math?math=\Large \textbf{y}(t)">, 
+    * [:,5:7] are joint velocities <img src="https://render.githubusercontent.com/render/math?math=\Large \dot{\textbf{y}}(t)">, 
     * [:,8:10] are joint acelerations
 * .targets[9824,3] (targets of trajectorie generation) 
     * targets[:,1] are x positions, 
