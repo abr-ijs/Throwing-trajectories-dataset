@@ -20,8 +20,8 @@ robot_throws
 * .DMP{1,9824} structures with DMP data for each exampel
     * .N
     * .dt
-    * .a_z $\alpha_z$
-    * .a_x
+    * .a_z <img src="https://render.githubusercontent.com/render/math?math=\aplha_z">
+    * .a_x <img src="https://render.githubusercontent.com/render/math?math=\aplha_x">
     * .c
     * .sigma_2
     * .w 
