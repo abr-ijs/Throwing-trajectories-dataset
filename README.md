@@ -24,7 +24,7 @@ robot_throws
     * .a_x is constant <img src="https://render.githubusercontent.com/render/math?math=\alpha_x">
     * .c are basis functions center positions
     * .sigma_2 are basis functions squared variances <img src="https://render.githubusercontent.com/render/math?math=\large\sigma^2">
-    * .w is basis functions weight matrix <img src="https://render.githubusercontent.com/render/math?math=\large textbf{w}">
+    * .w is basis functions weight matrix <img src="https://render.githubusercontent.com/render/math?math=\large textbf{\omega}">
     * .tau is time constant <img src="https://render.githubusercontent.com/render/math?math=\large\tau">  
     * .goal is goal <img src="https://render.githubusercontent.com/render/math?math=\large\textbf{g}">
     * .y0 is startiong point<img src="https://render.githubusercontent.com/render/math?math=\large\textbf{y_0}">
