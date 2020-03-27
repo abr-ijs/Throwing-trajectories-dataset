@@ -13,9 +13,9 @@ robot_throws
     * .dt is time step of generated trajectories,
 * .qPath{1,9824}[:,10] (array of 9824 generated trajectories, each in [:,10] matrix)
     * [:,1] are time values <img src="https://render.githubusercontent.com/render/math?math=\large t">,
-    * [:,2:4] are joint positions <img src="https://render.githubusercontent.com/render/math?math= \textbf{y}(t)">, 
-    * [:,5:7] are joint velocities <img src="https://render.githubusercontent.com/render/math?math= \dot{\textbf{y}}(t)">, 
-    * [:,8:10] are joint accelerations <img src="https://render.githubusercontent.com/render/math?math= \ddot{\textbf{y}}(t)">, 
+    * [:,2:4] are joint positions <img src="https://render.githubusercontent.com/render/math?math=\textbf{y}(t)">, 
+    * [:,5:7] are joint velocities <img src="https://render.githubusercontent.com/render/math?math=\dot{\textbf{y}}(t)">, 
+    * [:,8:10] are joint accelerations <img src="https://render.githubusercontent.com/render/math?math=\ddot{\textbf{y}}(t)">, 
 * .targets[9824,3] (targets of trajectory generation) 
     * targets[:,1] are target x positions <img src="https://render.githubusercontent.com/render/math?math=\large d">, 
     * targets[:,2] are target y positions <img src="https://render.githubusercontent.com/render/math?math=\large h">,  
@@ -34,6 +34,6 @@ robot_throws
 
 ### Matlab support code for dataset  
 
-kinematicsJacobian.m - calculates the end-effector position and the Jacobian matrix from the robot data in 'robot_throws.robot_data' and the selected joint position <img src="https://render.githubusercontent.com/render/math?math= \textbf{y}(t)">.
+kinematicsJacobian.m - calculates the end-effector position and the Jacobian matrix from the robot data in 'robot_throws.robot_data' and the selected joint position <img src="https://render.githubusercontent.com/render/math?math=\textbf{y}(t)">.
 
 
