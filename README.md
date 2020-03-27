@@ -23,7 +23,7 @@ robot_throws
     * .a_z <img src="https://render.githubusercontent.com/render/math?math=\alpha_z">
     * .a_x <img src="https://render.githubusercontent.com/render/math?math=\alpha_x">
     * .c
-    * .sigma_2 <img src="https://render.githubusercontent.com/render/math?math=\sigma^2">
+    * .sigma_2 <img src="https://render.githubusercontent.com/render/math?math=\Large\sigma^2">
     * .w weights <img src="https://render.githubusercontent.com/render/math?math=w">
     * .tau, time constant <img src="https://render.githubusercontent.com/render/math?math=\tau">  
     * .goal <img src="https://render.githubusercontent.com/render/math?math=g">
